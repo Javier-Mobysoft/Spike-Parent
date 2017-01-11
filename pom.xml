@@ -14,8 +14,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spike.common.version>201701111528-3224541</spike.common.version>
-        <spike.project1.version>201701111456-07a7962</spike.project1.version>
-        <spike.project2.version>201701111502-3b72aaf</spike.project2.version>
+        <spike.project1.version>201701111531-cb87861</spike.project1.version>
+        <spike.project2.version>201701111536-a16e996</spike.project2.version>
     </properties>
 
     <build>
