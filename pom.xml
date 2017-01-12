@@ -4,7 +4,7 @@
 
     <groupId>com.gitflow.spike</groupId>
     <artifactId>spike-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1.stage-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Spike-Parent</name>
